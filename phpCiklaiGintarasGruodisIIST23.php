@@ -1,6 +1,6 @@
 <?php
 // Pradinė reikšmė
-$x = 7; // gali pakeisti į bet kokį skaičių
+$x = 9; // gali pakeisti į bet kokį skaičių
 $iteracijos = 0;
 echo "Pradžia: $x\n";
 // Kartojame, kol reikšmė taps 1
